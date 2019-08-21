@@ -1,4 +1,6 @@
-# [WEEK 1](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-1)
+# [Programming_In_Java_NPTEL](https://github.com/bkkothari2255/Programming_In_Java_NPTEL)
+
+## [WEEK 1](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-1)
 
   [Java Week 1:Q1](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-1/Exercise1_1.java) To find the perimeter and area of a circle given a value of radius.
 
