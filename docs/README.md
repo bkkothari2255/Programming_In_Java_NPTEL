@@ -72,11 +72,99 @@ Circle: This is Shape2
 
 -----------------OUTPUT--------------------
 
+## [WEEK 5](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-5)
 
-## [WEEK 5](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-1)
+  [Java Week 5:Q1](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-5/Question5_1.java)
+  An interface Number is defined in the following program.  You have to declare a class A, which will implement the interface Number. Note that the method findSqr(n) will return the square of the number n.
+  
+  [Java Week 5:Q2](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-5/Question5_2.java)
+  This program is to find the GCD (greatest common divisor) of two integers writing a recursive function findGCD(n1,n2). Your function should return -1, if the argument(s) is(are) other than positive number(s).
+  
+  [Java Week 5:Q3](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-5/Question5_3.java)
+  Complete the code segment to catch the ArithmeticException in the following, if any. On the occurrence of such an exception, your program should print “Exception caught: Division by zero.” If there is no such exception, it will print the result of division operation on two integer values.
+  
+  [Java Week 5:Q4](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-5/Question5_4.java)
+  In the following program, an array of integer data to be initialized. During the initialization, if a user enters a value other than integer value, then it will throw InputMismatchException exception. On the occurrence of such an exception, your program should print “You entered bad data.” If there is no such exception it will print the total sum of the array.
 
-## [WEEK 6](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-1)
+  [Java Week 5:Q5](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-5/Question5_5.java)
+  In the following program, there may be multiple exceptions. You have to complete the code using only one try-catch block to handle all the possible exceptions.
 
-## [WEEK 7](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-1)
+For example, if user’s input is 1, then it will throw and catch “java.lang.NullPointerException“.
 
-## [WEEK 8](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-1) 
+## [WEEK 6](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-6)
+
+  [Java Week 6:Q1](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-6/Question61.java)
+  Complete the code segment to print the following using the concept of extending the Thread class in Java:
+
+-----------------OUTPUT-------------------
+
+Thread is Running.
+
+
+  [Java Week 6:Q2](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-6/Question62.java)
+  In the following program, a thread class ThreadRun is created using the Runnable interface which prints "Thread using Runnable interface". Complete the main class to create a thread object of the class ThreadRun and run the thread,
+  
+  [Java Week 6:Q3](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-6/Question63.java)
+  A part of the Java program is given, which can be completed in many ways, for example using the concept of thread, etc.  Follow the given code and complete the program so that your program prints the message "NPTEL Java". Your program should utilize the given interface/ class.
+  
+  [Java Week 6:Q4](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-6/Question64.java)
+  Execution of two or more threads occurs in a random order. The keyword 'synchronized' in Java is used to control the execution of thread in a strict sequence. In the following, the program is expected to print some numbers. Do the necessary use of 'synchronized' keyword, so that, the program prints the output in the following order:
+  
+-----------------OUTPUT-------------------
+
+5
+
+10
+
+15
+
+20
+
+25
+
+100
+
+200
+
+300
+
+400
+
+500
+
+
+  [Java Week 6:Q5](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-6/Question65.java)
+  Add necessary codes to print the following:
+  
+-----------------OUTPUT-------------------
+
+Name of thread 't':Thread-0
+
+New name of thread 't':NPTEL
+
+Thread is running.
+
+## [WEEK 7](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-7)
+
+  [Java Week 7:Q1]()
+  
+  [Java Week 7:Q2]()
+  
+  [Java Week 7:Q3]()
+  
+  [Java Week 7:Q4]()
+
+  [Java Week 7:Q5]()
+
+
+## [WEEK 8](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-8) 
+
+  [Java Week 8:Q1]()
+  
+  [Java Week 8:Q2]()
+  
+  [Java Week 8:Q3]()
+  
+  [Java Week 8:Q4]()
+
+  [Java Week 8:Q5]()
