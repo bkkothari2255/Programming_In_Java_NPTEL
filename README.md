@@ -38,8 +38,8 @@
   [Java Week 3:Q4](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-3/Test3.java) This program to exercise the call of static and non-static methods. A partial code is given defining two methods, namely sum( ) and multiply ( ). You have to call these methods to find the sum and product of two numbers.
 
   [Java Week 3:Q5](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-3/Question3.java) To swap two numbers using call by object reference.
-  
-  
+
+
 ## [WEEK 4](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-4)
 
   [Java Week 4:Q1](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-4/Question41.java) To execute the following program successfully. You should import the correct package(s) and/or class(s) to complete the code.
@@ -47,32 +47,25 @@
   [Java Week 4:Q2](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-4/Question42.java) To print the current year. 
   
   [Java Week 4:Q3](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-4/Question43.java) The program in this assignment is attempted to print the following output: 
-  
- -----------------OUTPUT-------------------
-   
+ 
+```text
+-----------------OUTPUT------------------- 
  This is large
-
  This is medium
-
  This is small
-
  This is extra-large
-
------------------OUTPUT-------------------
-  
+------------------------------------------
+ ``` 
   [Java Week 4:Q4](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-4/Question44.java)  To call the default method in the interface First and Second.
 
   [Java Week 4:Q5](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-4/Question45.java)  To print the following output.
 
------------------OUTPUT-------------------
-
+```text
+-----------------OUTPUT--------------
 Circle: This is Shape1
-
 Circle: This is Shape2
-
------------------OUTPUT--------------------
-
-
+-------------------------------------
+```
 
 ## [WEEK 5](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-5)
 
@@ -98,10 +91,10 @@ For example, if user’s input is 1, then it will throw and catch “java.lang.N
   [Java Week 6:Q1](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-6/Question61.java)
   Complete the code segment to print the following using the concept of extending the Thread class in Java:
 
+```text
 -----------------OUTPUT-------------------
-
 Thread is Running.
-
+```
 
   [Java Week 6:Q2](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-6/Question62.java)
   In the following program, a thread class ThreadRun is created using the Runnable interface which prints "Thread using Runnable interface". Complete the main class to create a thread object of the class ThreadRun and run the thread,
@@ -111,40 +104,30 @@ Thread is Running.
   
   [Java Week 6:Q4](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-6/Question64.java)
   Execution of two or more threads occurs in a random order. The keyword 'synchronized' in Java is used to control the execution of thread in a strict sequence. In the following, the program is expected to print some numbers. Do the necessary use of 'synchronized' keyword, so that, the program prints the output in the following order:
-  
+ 
+```text 
 -----------------OUTPUT-------------------
-
 5
-
 10
-
 15
-
 20
-
 25
-
 100
-
 200
-
 300
-
 400
-
 500
-
+```
 
   [Java Week 6:Q5](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-6/Question65.java)
   Add necessary codes to print the following:
-  
+ 
+```text
 -----------------OUTPUT-------------------
-
 Name of thread 't':Thread-0
-
 New name of thread 't':NPTEL
-
 Thread is running.
+```
 
 ## [WEEK 7](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-7)
 
@@ -159,13 +142,95 @@ Complete the code segment to catch the exception in the following, if any. On th
 
   [Java Week 7:Q5](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-7/Question5.java) A string "s1" is already initialized. You have to read the index "n"  from the keyboard. Complete the code segment to catch the exception in the following, if any. On the occurrence of such an exception, your program should print “exception occur” .If there is no such exception, your program should replace the char "a" at the index value "n" of the "s1" ,then it will print the modified string.
 
+## [WEEK 8](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-8)
 
-## [WEEK 8](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-8) 
+  [Java Week 8:Q1](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-8/Pattern1.java) Write a program which will print a pyramid of  "*" 's of height "n" and print the number of "*" 's in the pyramid.
+```text
+For example:
 
-## [WEEK 9](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-9) 
+input : 5
+output:  
 
-## [WEEK 10](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-10)
+        *  
+      * * *
+    * * * * * 
+  * * * * * * *
+* * * * * * * * * 
+25
+```
 
- ## [WEEK 11](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-11) 
- 
- ## [WEEK 12](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-12)
+  [Java Week 8:Q2](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-8/Pattern2.java) Write a program which will print a pascal pyramid of  "*" 's of height "l" .
+```text
+For example:
+
+input: 8
+
+output :
+       *      
+      * * 
+     * * *      
+    * * * *     
+   * * * * *   
+  * * * * * * 
+ * * * * * * * 
+* * * * * * * *
+```
+  
+  [Java Week 8:Q3](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-8/Pattern3.java) Write a program which will print a pyramid of  "numbers" 's of height "n" and print the sum of all number's in the pyramid.
+```text
+For example:
+
+input: 5
+
+output: 
+
+        1       
+      1 2 3      
+    1 2 3 4 5    
+  1 2 3 4 5 6 7 
+1 2 3 4 5 6 7 8 9 
+95
+```
+
+  [Java Week 8:Q4](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-8/Pattern4.java) Write a program to print symmetric Pascal's triangle of "*" 's of  height "l" of odd length . If input "l" is even then your program will print "Invalid line number".
+```text
+For example:
+
+input : 5
+
+output:
+  *  
+ * *
+* * *
+ * *
+  *
+  
+input : 6
+
+output:
+
+Invalid line number
+```
+
+  [Java Week 8:Q5](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-8/Pattern5.java) Write a program to display any digit(n) from 0-9 using "7 segment  display". 
+
+```text
+
+For example:
+
+input : 5
+
+output :
+ _ 
+|_ 
+ _|
+
+
+input : 4
+
+output :
+
+|_|
+  |
+
+```
