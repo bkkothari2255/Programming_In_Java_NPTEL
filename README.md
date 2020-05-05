@@ -12,7 +12,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/bkkothari2255/Programming_In_Java_NPTEL.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/bkkothari2255/Programming_In_Java_NPTEL/stargazers/)
 [![GitHub followers](https://img.shields.io/github/followers/bkkothari2255.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/bkkothari2255?tab=followers)
 <h1>
-	<a href="#week7"> test</a>	
+	<a href="#week8"> test</a>	
 </h1>
 
 ## [WEEK 1](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-1)
@@ -156,7 +156,7 @@ Complete the code segment to catch the exception in the following, if any. On th
 
   [Java Week 7:Q5](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-7/Question5.java) A string "s1" is already initialized. You have to read the index "n"  from the keyboard. Complete the code segment to catch the exception in the following, if any. On the occurrence of such an exception, your program should print “exception occur” .If there is no such exception, your program should replace the char "a" at the index value "n" of the "s1" ,then it will print the modified string.
 
-## [WEEK 8](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-8)
+## [WEEK 8](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-8)<span id="week8"></span>
 
   [Java Week 8:Q1](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-8/Pattern1.java) Write a program which will print a pyramid of  "*" 's of height "n" and print the number of "*" 's in the pyramid.
 ```text
