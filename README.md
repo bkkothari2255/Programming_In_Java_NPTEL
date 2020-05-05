@@ -12,18 +12,18 @@
 [![GitHub stars](https://img.shields.io/github/stars/bkkothari2255/Programming_In_Java_NPTEL.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/bkkothari2255/Programming_In_Java_NPTEL/stargazers/)
 [![GitHub followers](https://img.shields.io/github/followers/bkkothari2255.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/bkkothari2255?tab=followers)
 
-<a href="#w1"> `Week1`</a>	
-<a href="#w2"> `Week2`</a>
-<a href="#w3"> `Week3`</a>	
-<a href="#w4"> `Week4`</a>
-<a href="#w5"> `Week5`</a>	
-<a href="#w6"> `Week6`</a>
-<a href="#w7"> `Week7`</a>	
-<a href="#w8"> `Week8`</a>
-<a href="#w9"> `Week9`</a>	
-<a href="#w10"> `Week10`</a>
-<a href="#w11"> `Week11`</a>	
-<a href="#w12"> `Week12`</a>
+<a href="#w1"> `Week 1`</a>	
+<a href="#w2"> `Week 2`</a>
+<a href="#w3"> `Week 3`</a>	
+<a href="#w4"> `Week 4`</a>
+<a href="#w5"> `Week 5`</a>	
+<a href="#w6"> `Week 6`</a>
+<a href="#w7"> `Week 7`</a>	
+<a href="#w8"> `Week 8`</a>
+<a href="#w9"> `Week 9`</a>	
+<a href="#w10"> `Week 10`</a>
+<a href="#w11"> `Week 11`</a>	
+<a href="#w12"> `Week 12`</a>
 
 
 
