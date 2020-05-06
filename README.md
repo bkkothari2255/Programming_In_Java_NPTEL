@@ -11,7 +11,23 @@
 [![GitHub forks](https://img.shields.io/github/forks/bkkothari2255/Programming_In_Java_NPTEL.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/bkkothari2255/Programming_In_Java_NPTEL/network/)
 [![GitHub stars](https://img.shields.io/github/stars/bkkothari2255/Programming_In_Java_NPTEL.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/bkkothari2255/Programming_In_Java_NPTEL/stargazers/)
 [![GitHub followers](https://img.shields.io/github/followers/bkkothari2255.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/bkkothari2255?tab=followers)
-## [WEEK 1](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-1)
+
+<a href="#w1"> `Week 1`</a>	
+<a href="#w2"> `Week 2`</a>
+<a href="#w3"> `Week 3`</a>	
+<a href="#w4"> `Week 4`</a>
+<a href="#w5"> `Week 5`</a>	
+<a href="#w6"> `Week 6`</a>
+<a href="#w7"> `Week 7`</a>	
+<a href="#w8"> `Week 8`</a>
+<a href="#w9"> `Week 9`</a>	
+<a href="#w10"> `Week 10`</a>
+<a href="#w11"> `Week 11`</a>	
+<a href="#w12"> `Week 12`</a>
+
+
+
+## [WEEK 1](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-1)<span id="w1"></span>
 
   [Java Week 1:Q1](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-1/Exercise1_1.java) To find the perimeter and area of a circle given a value of radius.
 
@@ -24,7 +40,7 @@
   [Java Week 1:Q5](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-1/Exercise1_5.java) To help Ram , find the highest mark and average mark secured by him in "s" number of subjects.
 
 
-## [WEEK 2](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-2)
+## [WEEK 2](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-2)<span id="w2"></span>
 
   [Java Week 2:Q1](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-2/Question211.java) To call the method  print() in class Student following the concept of inner class.
 
@@ -37,7 +53,7 @@
   [Java Week 2:Q5](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-2/Question215.java) To debug the program which is intended to print 'NPTEL JAVA'.
 
 
-## [WEEK 3](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-3)
+## [WEEK 3](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-3)<span id="w3"></span>
 
   [Java Week 3:Q1](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-3/Fibonacci.java) To the generation of Fibonacci numbers.
 
@@ -50,7 +66,7 @@
   [Java Week 3:Q5](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-3/Question3.java) To swap two numbers using call by object reference.
 
 
-## [WEEK 4](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-4)
+## [WEEK 4](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-4)<span id="w4"></span>
 
   [Java Week 4:Q1](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-4/Question41.java) To execute the following program successfully. You should import the correct package(s) and/or class(s) to complete the code.
   
@@ -77,7 +93,7 @@ Circle: This is Shape2
 -------------------------------------
 ```
 
-## [WEEK 5](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-5)
+## [WEEK 5](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-5)<span id="w5"></span>
 
   [Java Week 5:Q1](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-5/Question5_1.java)
   An interface Number is defined in the following program.  You have to declare a class A, which will implement the interface Number. Note that the method findSqr(n) will return the square of the number n.
@@ -96,7 +112,7 @@ Circle: This is Shape2
 
 For example, if user’s input is 1, then it will throw and catch “java.lang.NullPointerException“.
 
-## [WEEK 6](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-6)
+## [WEEK 6](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-6)<span id="w6"></span>
 
   [Java Week 6:Q1](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-6/Question61.java)
   Complete the code segment to print the following using the concept of extending the Thread class in Java:
@@ -139,7 +155,7 @@ New name of thread 't':NPTEL
 Thread is running.
 ```
 
-## [WEEK 7](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-7)
+## [WEEK 7](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-7)<span id="w7"></span>
 
   [Java Week 7:Q1](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-7/Question1.java) Complete the following code fragment to read three integer values from the keyboard and find the sum of the values. Declare a variable "sum" of type int and store the result in it.
   
@@ -152,7 +168,7 @@ Complete the code segment to catch the exception in the following, if any. On th
 
   [Java Week 7:Q5](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-7/Question5.java) A string "s1" is already initialized. You have to read the index "n"  from the keyboard. Complete the code segment to catch the exception in the following, if any. On the occurrence of such an exception, your program should print “exception occur” .If there is no such exception, your program should replace the char "a" at the index value "n" of the "s1" ,then it will print the modified string.
 
-## [WEEK 8](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-8)
+## [WEEK 8](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-8)<span id="w8"></span>
 
   [Java Week 8:Q1](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-8/Pattern1.java) Write a program which will print a pyramid of  "*" 's of height "n" and print the number of "*" 's in the pyramid.
 ```text
@@ -245,7 +261,7 @@ output :
 
 ```
 
-## [WEEK 9](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-9)
+## [WEEK 9](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-9)<span id="w9"></span>
 
   [Java Week 9:Q1](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-9/Question91.java) Complete the code to develop a BASIC CALCULATOR that can perform operations like Addition, Subtraction, Multiplication and Division.
 ```text
@@ -347,7 +363,7 @@ Note the following points carefully:
 3. Flip-Flop: If 0 then 1 and vice-versa.
 ```
 
-## [WEEK 10](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-10)
+## [WEEK 10](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-10)<span id="w10"></span>
 
   [Java Week 10:Q1](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-10/Question101.java) The following code needs some package to work properly. Write appropriate code to import the required package(s) in order to make the program compile and execute successfully.
 
@@ -370,7 +386,7 @@ Note the following points carefully:
 
   [Java Week 10:Q5](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-10/Question105.java) Complete the code segment to rename an already created table named ‘PLAYERS’ into ‘SPORTS’.
 
-## [WEEK 11](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-11)
+## [WEEK 11](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-11)<span id="w11"></span>
 
   [Java Week 11:Q1](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-11/InsertData.java) Complete the code segment to insert the following data using prepared statement in the existing table ‘PLAYERS’.
 
@@ -403,7 +419,7 @@ Structure of Table 'PLAYERS' is given below:
 
   [Java Week 11:Q5](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-11/DropTable.java) Complete the code segment to drop the table named ‘PLAYERS’.
 
-## [WEEK 12](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-12)
+## [WEEK 12](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-12)<span id="w12"></span>
 
   [Java Week 12:Q1](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-12/Question92.java) Complete the code to develop an extended version of the ADVANCED CALCULATOR with added special functions that emulates all the functions of the GUI Calculator as shown in the image.
 
