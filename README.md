@@ -12,6 +12,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/bkkothari2255/Programming_In_Java_NPTEL.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/bkkothari2255/Programming_In_Java_NPTEL/stargazers/)
 [![GitHub followers](https://img.shields.io/github/followers/bkkothari2255.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/bkkothari2255?tab=followers)
 
+#### Navigate to Week 
+
 <a href="#w1"> `Week 1`</a>	
 <a href="#w2"> `Week 2`</a>
 <a href="#w3"> `Week 3`</a>	
