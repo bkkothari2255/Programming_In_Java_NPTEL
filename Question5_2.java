@@ -5,7 +5,7 @@ interface GCD {
 }
 
 //Create a class B, which implements the interface GCD.
-class B{
+class B implements GCD{
   public int findGCD(int n1,int n2){
   
   if(n1 < 0 || n2 < 0)
