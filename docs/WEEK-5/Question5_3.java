@@ -14,7 +14,7 @@ System.out.print(a/b);
 }
 catch(ArithmeticException e)
 {
-   System.out.print("Exception caught: Division by zero");
+   System.out.print("Exception caught: Division by zero.");
 }
 	
 
